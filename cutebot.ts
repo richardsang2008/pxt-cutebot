@@ -20,18 +20,18 @@ namespace cuteBot {
     */
     export enum MotorsList {
         //% blockId="M1" block="M1"
-        M1 = 0,
+        M1 = 1,
         //% blockId="M2" block="M2"
-        M2 = 1
+        M2 = 2
     }
     /**
     * Select the servo on the S1 or S2
     */
     export enum ServoList {
         //% block="S1"
-        S1 = 0,
+        S1 = 1,
         //% block="S2"
-        S2 = 1
+        S2 = 2
     }
     /**
     * Select the RGBLights on the left or right
